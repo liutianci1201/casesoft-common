@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../casesoftdubbo/casesoft-api/casesoft-api.iml" filepath="$PROJECT_DIR$/../casesoftdubbo/casesoft-api/casesoft-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casesoft-common.iml" filepath="$PROJECT_DIR$/casesoft-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../casesoft-dal/casesoft-dal.iml" filepath="$PROJECT_DIR$/../casesoft-dal/casesoft-dal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../casesoft-entity/casesoft-entity.iml" filepath="$PROJECT_DIR$/../casesoft-entity/casesoft-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../casesoft-mgr/casesoft-mgr.iml" filepath="$PROJECT_DIR$/../casesoft-mgr/casesoft-mgr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../casesoftdubbo/casesoft-web/casesoft-web.iml" filepath="$PROJECT_DIR$/../casesoftdubbo/casesoft-web/casesoft-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../casesoftdubbo/casesoftdubbo.iml" filepath="$PROJECT_DIR$/../casesoftdubbo/casesoftdubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../casesoftdubbo/casesoft-service/casesoftdubbo-service.iml" filepath="$PROJECT_DIR$/../casesoftdubbo/casesoft-service/casesoftdubbo-service.iml" />
+    </modules>
+  </component>
+</project>

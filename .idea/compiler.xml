@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="casesoft-api" />
+        <module name="casesoft-common" />
+        <module name="casesoft-dal" />
+        <module name="casesoft-entity" />
+        <module name="casesoft-mgr" />
+        <module name="casesoft-web" />
+        <module name="casesoftdubbo-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="casesoft-api" target="1.8" />
+      <module name="casesoft-common" target="1.8" />
+      <module name="casesoft-dal" target="1.6" />
+      <module name="casesoft-entity" target="1.6" />
+      <module name="casesoft-mgr" target="1.8" />
+      <module name="casesoft-web" target="1.8" />
+      <module name="casesoftdubbo" target="1.8" />
+      <module name="casesoftdubbo-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

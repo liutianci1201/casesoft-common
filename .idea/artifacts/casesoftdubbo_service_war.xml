@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="casesoftdubbo-service:war">
+    <output-path>$PROJECT_DIR$/../casesoftdubbo/casesoft-service/target</output-path>
+    <root id="archive" name="casesoftdubbo-service-1.0.0.war">
+      <element id="artifact" artifact-name="casesoftdubbo-service:war exploded" />
+    </root>
+  </artifact>
+</component>
